@@ -39,9 +39,6 @@ export default function Loader() {
                 }}
               />
             ))}
-            <span className="font-mono text-xs tracking-[0.3em] text-bone/60">
-              f/1.8
-            </span>
           </div>
         </motion.div>
       )}
