@@ -36,7 +36,6 @@ export default function HomePage() {
         <div className="relative mx-auto max-w-7xl px-6 pt-24 md:px-10">
           <div className="flex items-center gap-3 font-mono text-xs uppercase tracking-[0.3em] text-gold">
             <Aperture className="h-4 w-4" />
-            <span>f/1.8 · ISO 400 · Abomey-Calavi, Bénin</span>
           </div>
           <h1 className="mt-6 max-w-3xl text-balance font-display text-5xl leading-[1.05] text-bone md:text-7xl">
             {studio.tagline}
