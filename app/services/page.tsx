@@ -29,7 +29,6 @@ export default function ServicesPage() {
             <p className="font-body text-sm leading-relaxed text-bone/65">
               {s.description}
               <span className="mt-2 block font-mono text-[11px] text-gold/70">
-                {s.settings}
               </span>
             </p>
             <Link
