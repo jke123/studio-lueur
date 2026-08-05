@@ -115,7 +115,6 @@ export default function HomePage() {
                 </p>
               </div>
               <p className="mt-6 font-mono text-[11px] text-gold/70">
-                {s.settings}
               </p>
             </div>
           ))}
